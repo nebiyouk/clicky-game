@@ -1,3 +1,10 @@
+<h1>Clicky Game</h1>
+<br>
+<p>Your memory becomes a factor as you only want to click on the ones that you haven't clicked on yet. Your current score increases each time you click on a new character. The highest score you can get is 12. If you click on something you already clicked on you will loose and that resets the game. Your highest score is kept.</p>
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
