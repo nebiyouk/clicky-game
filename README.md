@@ -1,7 +1,7 @@
 <h1>Clicky Game</h1>
 <br>
 <p>This is memory game that is built with React. It breaks up the application's UI into components, manage component state, and respond to user events.</p>
-<p>Your memory becomes a factor as you only want to click on the ones that you haven't clicked on yet. Your current score increases each time you click on a new character. The highest score you can get is 12. If you click on something you already clicked on you will loose and that resets the game. Your highest score is kept.</p>
+<p>Your memory becomes a factor as you only want to click on the ones that you haven't clicked on yet. Your current score increases each time you click on a new character. If you click on something you already clicked on you will loose and that resets the game. Your highest score is kept.</p>
 <br>
 <h2>Getting Started</h2>
 <p>This app is deployed at Heroku <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a>. Or you can get the app set up on your own local computer.</p>
