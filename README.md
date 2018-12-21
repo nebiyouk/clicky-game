@@ -36,12 +36,15 @@
 <li>When you are ready to stop the app, in the command line hit control C</li>
 </ul>
 <br>
-# <h6>React will automatically start the app in your browser at http://localhost:3000/ unless you already have something else running on that port in which case it will go to 3001.</h6>
-
-
-
-
-
+ <h4><strong>==></strong>React will automatically start the app in your browser at http://localhost:3000/ unless you already have something else running on that port in which case it will go to 3001.</h4>
+<h3>Good Luck</h3>
+<br>
+<h2>Deployment</h2>
+<p>This app is deployed at Heroku <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a>.
+<br>
+<br>
+<br>
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
