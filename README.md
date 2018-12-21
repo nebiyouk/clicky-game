@@ -4,7 +4,7 @@
 <p>Your memory becomes a factor as you only want to click on the ones that you haven't clicked on yet. Your current score increases each time you click on a new character. If you click on something you already clicked on you will loose and that resets the game. Your highest score is kept.</p>
 <br>
 <h2>Getting Started</h2>
-<p>This app is deployed at Heroku <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a>. Or you can get the app set up on your own local computer.</p>
+<p>This app is deployed <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a> at Heroku. Or you can get the app set up on your own local computer.</p>
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 <br>
 <h4>App Setup</h4>
@@ -40,7 +40,7 @@
 <h3>Good Luck</h3>
 <br>
 <h2>Deployment</h2>
-<p>This app is deployed at Heroku <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a>.
+<p>This app is deployed <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a> at Heroku.</p>
 <br>
 <br>
 <br>
