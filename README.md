@@ -16,6 +16,30 @@
 
 <li>To get the packages required to run this app type into the command line <strong> yarn install</strong></li>
 </ul>
+<br>
+<h5>The Character Information</h5>
+<ul>
+<li>You can find the friend or character information in the package.json file. In this file each friend is given an list of attributes and values including id number, name, image link and click value.</li>
+
+<li>The click value is set for false on each friend until the friend image is clicked on by the user. Once that happens the click value is changed to true and if clicked again it will reset the game.</li>
+
+<li>Since this is the file used to contain the friend information there is no use of a database to set up.</li>
+</ul>
+<h2>Open in Your Code Editor</h2>
+<ul>
+<li>Open the ClickyGame folder in your text editor of choice (I suggest either Visual Studio Code or Sublime Text).</li>
+
+<li>Then open your terminal (I use GitBash) and go to the main folder of Clicky-Game</li>
+
+<li>Type yarn start end hit enter</li>
+
+<li>When you are ready to stop the app, in the command line hit control C</li>
+</ul>
+<br>
+# <h6>React will automatically start the app in your browser at http://localhost:3000/ unless you already have something else running on that port in which case it will go to 3001.</h6>
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
