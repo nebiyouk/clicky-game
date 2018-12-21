@@ -37,8 +37,6 @@
 </ul>
 <br>
  <h4><strong>==></strong>React will automatically start the app in your browser at http://localhost:3000/ unless you already have something else running on that port in which case it will go to 3001.</h4>
-<h3>Good Luck</h3>
-<br>
 <h2>Deployment</h2>
 <p>This app is deployed <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a> at Heroku.</p>
 <br>
