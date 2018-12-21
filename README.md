@@ -7,9 +7,15 @@
 <p>This app is deployed at Heroku <a href="https://peaceful-escarpment-57164.herokuapp.com/"  target = "_blank">here</a>. Or you can get the app set up on your own local computer.</p>
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 <br>
+<h4>App Setup</h4>
+<br>
+<ul>
+<li>Fork a copy to your Github repo and clone it to your computer.</li>
 
+<li>Go to your Git Bash and got to into the folder called <strong>ClickyGame.</strong></li>
 
-
+<li>To get the packages required to run this app type into the command line <strong> yarn install</strong></li>
+</ul>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
